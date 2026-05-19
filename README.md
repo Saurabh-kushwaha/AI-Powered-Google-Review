@@ -141,4 +141,3 @@ Add your screenshots here.
 <img width="1366" height="3964" alt="image" src="https://github.com/user-attachments/assets/8d684e67-5864-4960-a0c4-6506239a7c42" />
 <img width="1350" height="638" alt="image" src="https://github.com/user-attachments/assets/5287b19e-ae41-427d-82c1-56d70b25bb96" />
 <img width="1363" height="634" alt="image" src="https://github.com/user-attachments/assets/aa43e61d-0e9e-42e9-b2d3-15a3a8461c8a" />
-<img width="1363" height="634" alt="image" src="https://github.com/user-attachments/assets/f49e2884-d455-48ed-b7d3-1face47b98d2" />
